@@ -10,15 +10,15 @@ To gain star :star: points, the player needs to **match two cards** with lesser 
 
 ## Directions for the Game 
 
-	- Click the card :hearts: to show the hidden icon.
+	* Click the card :hearts: to show the hidden icon.
 
-	- Match it to the 2nd card :hearts:. Keep the pattern up until all cards match.
+	* Match it to the 2nd card :hearts:. Keep the pattern up until all cards match.
 
-	- Once all matched cards :diamonds: been completed a message pops out that shows the result.  
+	* Once all matched cards :diamonds: been completed a message pops out that shows the result.  
 
-	- Click reset button to play the game again or close it to see the recent game board activity.
+	* Click reset button to play the game again or close it to see the recent game board activity.
 
-	- Another option is to click restore icon :repeat: to reset the game.
+	* Another option is to click restore icon :repeat: to reset the game.
 
 ## Building Out the Games Functionality
 

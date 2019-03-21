@@ -8,17 +8,17 @@ To gain star :star: points, the player needs to **match two cards** with lesser 
 
 ## Click [here](https://rrcanlas.github.io/MeMory-gaMe/) to Start Playing
 
-## Directions for the Game 
+## Guidelines for the Game 
 
-	1. Click the card :hearts: to show the hidden icon.
+   * Click the card :hearts: to show the hidden icon.
 
-	2. Match it to the 2nd card :hearts:. Keep the pattern up until all cards match.
+   * Match it to the 2nd card :hearts:. Keep the pattern up until all cards match.
 
-	3. Once all matched cards :diamonds: been completed a message pops out that shows the result.  
+   * Once all matched cards :diamonds: been completed a message pops out that shows the result.  
 
-	4. Click reset button to play the game again or close it to see the recent game board activity.
+   * Click reset button to play the game again or close it to see the recent game board activity.
 
-	5. Another option is to click restore icon :repeat: to reset the game.
+   * Another option is to click restore icon :repeat: to reset the game.
 
 ## Building Out the Games Functionality
 

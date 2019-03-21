@@ -6,9 +6,7 @@ This game consists of random icon cards that **toughens** the players memory.
 
 To gain star :star: points, the player needs to **match two cards** with lesser moves. 
 
-## To Start Playing
-
-Click this [link ...](https://codepen.io/minion2015/pen/eKNjvo)
+## Click [here](https://rrcanlas.github.io/MeMory-gaMe/) to Start Playing
 
 ## Directions for the Game 
 
